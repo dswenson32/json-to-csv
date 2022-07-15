@@ -1,0 +1,11 @@
+{
+  "name": "json-to-csv",
+  "version": "1.0.0",
+  "description": "Simple node.js script that leverage the json-2-csv node package, taking in a JSON file and spiting out a CSV",
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-2-csv": "^3.17.1"
+  }
+}
